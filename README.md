@@ -1,2 +1,6 @@
 # ToDoList
-Basic to do list
+React.js - Basic to do list
+
+-components
+-props
+-states
